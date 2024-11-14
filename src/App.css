@@ -8,17 +8,6 @@
     font-weight: 400;
     font-style: medium;
     max-width:100%;
-    /* display:grid;
-    grid-template-areas:
-    "boxone"
-    "boxtwo"
-    "boxthree"
-    "boxfour"
-    "boxfive"
-    "boxsix"
-    "boxseven"
-    "boxeight";
-    grid-template-columns: 1fr; */
   } 
   
 
@@ -229,7 +218,7 @@ display:flex;
 align-items:center;}
 /* .boxfive img{width:60%;} */
 .boxsix{grid-area:g}
-.boxsix img{transform: translateY(150px)
+.boxsix img{transform: translateY(175px)
 
 }
 .boxseven{
