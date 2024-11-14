@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import illustrationFiveStars from './assets/illustration-five-stars.webp';
 import illustrationMultiplePlatforms from './assets/illustration-multiple-platforms.webp';
 import illustrationConsistentSchedule from './assets/illustration-consistent-schedule.webp';
