@@ -229,7 +229,7 @@ display:flex;
 align-items:center;}
 /* .boxfive img{width:60%;} */
 .boxsix{grid-area:g}
-.boxsix img{transform: translateY(75px)
+.boxsix img{transform: translateY(150px)
 
 }
 .boxseven{
